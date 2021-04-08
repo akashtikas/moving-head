@@ -1,5 +1,8 @@
-var x = 5;         // assign the value 5 to x
-var y = 2;         // assign the value 2 to y
-var z = x + y;
+let x = 5;        
+let y = 2;        
+let z = x + y;
+let diff=x-y
 
+
+console.log("difference",diff);
 console.log(z);
